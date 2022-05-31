@@ -35,14 +35,14 @@ web terminal是一款设计用于渗透辅助、社会工程学辅助、个人�
     <a href='https://github.com/LinWin-Cloud/Web_Terminal/blob/main/view_document.md'>配 置 文 档</a>
   </td>
   <td>
-    <a href=''>建 议 浏 览 器 设 置</a>
+    <a href='https://github.com/LinWin-Cloud/Web_Terminal/blob/main/view_document.md'>建 议 浏 览 器 设 置</a>
   </td>
     <tr>
       <td>
           <a href='https://github.com/LinWin-Cloud/Web_Terminal/blob/main/view_document.md'>界 面 操 作 文 档</a>
       </td>
       <td>
-          <a href=''>注 意 声 明</a>
+          <a href='https://github.com/LinWin-Cloud/Web_Terminal/blob/main/attantion_document.md'>注 意 声 明</a>
       </td>
       <td>
           <a href=''>开 源 关 注</a>
