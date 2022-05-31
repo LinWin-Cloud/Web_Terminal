@@ -39,7 +39,7 @@ web terminal是一款设计用于渗透辅助、社会工程学辅助、个人�
   </td>
     <tr>
       <td>
-          <a href=''>界 面 操 作 文 档</a>
+          <a href='https://github.com/LinWin-Cloud/Web_Terminal/blob/main/view_document.md'>界 面 操 作 文 档</a>
       </td>
       <td>
           <a href=''>注 意 声 明</a>
