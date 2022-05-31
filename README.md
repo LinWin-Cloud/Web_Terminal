@@ -20,7 +20,9 @@ web terminal是一款设计用于渗透辅助、社会工程学辅助、个人�
     <a href=''>建议浏览器设置</a>
   </td>
     <tr>
-    <a href=''>界面操作文档</a>
+      <td>
+          <a href=''>界面操作文档</a>
+      </td>
   </tr>
 </table>
 <table>
