@@ -1,5 +1,6 @@
 # web Terminal
 基于Web的高级命令行终端
+作者:LinWinCloud
 
 # 关于
 web terminal是一款设计用于渗透辅助、社会工程学辅助、个人信息获取的web在线命令行终端。
