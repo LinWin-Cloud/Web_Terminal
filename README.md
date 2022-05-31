@@ -45,7 +45,7 @@ web terminal是一款设计用于渗透辅助、社会工程学辅助、个人�
           <a href='https://github.com/LinWin-Cloud/Web_Terminal/blob/main/attantion_document.md'>注 意 声 明</a>
       </td>
       <td>
-          <a href=''>开 源 关 注</a>
+          <a href='https://github.com/LinWin-Cloud/Web_Terminal/blob/main/open_resource_document.md'>开 源 关 注</a>
       </td>
   </tr>
 </table>
