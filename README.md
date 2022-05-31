@@ -16,4 +16,12 @@ web terminal是一款设计用于渗透辅助、社会工程学辅助、个人�
   <td>
     <a href=''>配置文档</a>
   </td>
+  <td>
+    <a href=''>建议浏览器设置</a>
+  </td>
+</table>
+<table>
+  <td>
+    <a href=''>界面操作文档</a>
+  </td>
 </table>
