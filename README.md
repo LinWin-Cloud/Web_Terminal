@@ -29,7 +29,7 @@ web terminal是一款设计用于渗透辅助、社会工程学辅助、个人�
 # 参考文档:
 <table>
   <td>
-    <a href=''>命 令 行 操 作 文 档</a>
+    <a href='https://github.com/LinWin-Cloud/Web_Terminal/blob/main/Document.md'>命 令 行 操 作 文 档</a>
   </td>
   <td>
     <a href=''>配 置 文 档</a>
