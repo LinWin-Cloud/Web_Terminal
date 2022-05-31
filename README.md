@@ -23,23 +23,23 @@ web terminal是一款设计用于渗透辅助、社会工程学辅助、个人�
 # 参考文档:
 <table>
   <td>
-    <a href=''>命令行操作文档</a>
+    <a href=''>命 令 行 操 作 文 档</a>
   </td>
   <td>
-    <a href=''>配置文档</a>
+    <a href=''>配 置 文 档</a>
   </td>
   <td>
-    <a href=''>建议浏览器设置</a>
+    <a href=''>建 议 浏 览 器 设 置</a>
   </td>
     <tr>
       <td>
-          <a href=''>界面操作文档</a>
+          <a href=''>界 面 操 作 文 档</a>
       </td>
       <td>
-          <a href=''>注意声明</a>
+          <a href=''>注 意 声 明</a>
       </td>
       <td>
-          <a href=''>开源关注</a>
+          <a href=''>开 源 关 注</a>
       </td>
   </tr>
 </table>
