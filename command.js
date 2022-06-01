@@ -488,7 +488,7 @@ window.onload=function()
             if (command == 'shell -vistion')
             {
                 //show the web shell 's vistion
-                var content='[*]Web Shell<br/>Vistion:4.1.1'
+                var content='[*]Web Shell<br/>Vistion:4.1.1<br />'
                 show_command(content)
                 document.getElementById('in').value = "";
                 return true
@@ -497,7 +497,7 @@ window.onload=function()
             {
                 about = 'Web Shell<br/>Auther:LinWinCloud<br/>'+
                 "You can visit url:https://gitee.com/LinWin-Cloud/<br/>"
-                +"A shell in web.";
+                +"A shell in web.<br />";
                 show_command(about)
                 //show about the web shell 's information
                 document.getElementById('in').value = "";
