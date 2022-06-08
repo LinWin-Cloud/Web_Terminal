@@ -16,6 +16,7 @@ web terminal是一款设计用于渗透辅助、社会工程学辅助、个人�
 1. v1.0.0 发布Web Terminal单语言版本（英语）2022.5.30
 2. v1.1.1 更新文档、配置、告示文件 2022.5.31
 3. v1.1.2 修复部分源代码、更新注释、代码 2022.6.1
+4. v1.1.3 更新部分文档、添加 代码修改文档 2022.6.8
 
 # 反馈、修改和建议
 1. 建议通过github的lssues来进行反馈，作者将会及时修复源代码
@@ -26,6 +27,7 @@ web terminal是一款设计用于渗透辅助、社会工程学辅助、个人�
 # 授权使用范围
 1. 用于个人，开发者，学生等
 2. 用于企业组织等
+3. 安全测试工具等
 
 # 参考文档:
 <table>
@@ -52,3 +54,4 @@ web terminal是一款设计用于渗透辅助、社会工程学辅助、个人�
 </table>
 <table>
 </table>
+<li><a href='https://github.com/LinWin-Cloud/Web_Terminal/blob/main/code_document.md'>代码修改</a></li>
