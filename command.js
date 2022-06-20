@@ -350,6 +350,8 @@ function get_help(){
 window.onload=function()
 {
     var input=document.getElementById("in") //get the dom from html
+    show_command("Web Terminal")
+    show_command("https://github.com/LinWin-Cloud")
     input.onkeydown=function(ev)
     {
         var event=ev ||event ;
