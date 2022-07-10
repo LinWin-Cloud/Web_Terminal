@@ -12,7 +12,7 @@ function shodan_search()
     if (search_command == null)
     {
         console.log('[!]Null')
-        document.getElementById('in').value = '' ;
+        document.getElementById('in').value = '' ; 
         return false
     }
     else
